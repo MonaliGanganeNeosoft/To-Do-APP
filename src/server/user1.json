@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "name": "moni",
+      "lastname": "aaa",
+      "username": "ss",
+      "email": "abc@gmail.com",
+      "password": "11111111",
+      "id": 1
+    },
+    {
+      "name": "monali",
+      "lastname": "aaa",
+      "username": "ddddddddd",
+      "email": "abc@gmail.com",
+      "password": "11111111",
+      "id": 2
+    },
+    {
+      "name": "monali",
+      "lastname": "aaa",
+      "username": "ddddddddd",
+      "email": "abc@gmail.com",
+      "password": "11111111",
+      "id": 3
+    },
+    {
+      "name": "sakshi ",
+      "lastname": "shinde",
+      "username": "sakshi",
+      "email": "shindesakshi8767@gmail.com",
+      "password": "sakshi87",
+      "id": 4
+    },
+    {
+      "name": "monali",
+      "lastname": "aaa",
+      "username": "ddddddddd",
+      "email": "abc@gmail.com",
+      "password": "11111111",
+      "id": 5
+    },
+    {
+      "name": "moni",
+      "lastname": "ash",
+      "username": "abcd",
+      "email": "abc@gmail.com",
+      "password": "zzzzzzzz",
+      "id": 6
+    },
+    {
+      "name": "monali",
+      "lastname": "aaa",
+      "username": "ddddddddd",
+      "email": "abc@gmail.com",
+      "password": "aaaaaaaa",
+      "id": 7
+    },
+    {
+      "name": "monali",
+      "lastname": "aaa",
+      "username": "ddddddddd",
+      "email": "abc@gmail.com",
+      "password": "11111111",
+      "id": 8
+    },
+    {
+      "name": "Tejas",
+      "lastname": "Gangane",
+      "username": "khandu",
+      "email": "tejasgangane@888gmail.com",
+      "password": "74747474",
+      "id": 9
+    },
+    {
+      "name": "monali",
+      "lastname": "aaa",
+      "username": "ddddddddd",
+      "email": "shreyu@programmer.net",
+      "password": "11111111",
+      "id": 10
+    },
+    {
+      "name": "monali",
+      "lastname": "aaa",
+      "username": "ddddddddd",
+      "email": "abc@gmail.com",
+      "password": "aaaaaaaa",
+      "id": 11
+    },
+    {
+      "name": "monali",
+      "lastname": "aaa",
+      "username": "aaa",
+      "email": "abc@gmail.com",
+      "password": "11111111",
+      "id": 12
+    }
+  ]
+}
